@@ -1,4 +1,3 @@
-# vue-3-typescript-example
 
 ## Project setup
 ```
